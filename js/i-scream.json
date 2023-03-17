@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Amazing Banana",
+      "calories": 455,
+      "type": "ice cream",
+      "ingredients": [
+        "banana",
+        "chocolate syrup",
+        "vanilla syrup"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Incredible Oranges",
+      "calories": 485,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "oranges",
+        "orange juice",
+        "heavy cream"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
